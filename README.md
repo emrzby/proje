@@ -3,7 +3,7 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde b
 
 ------------
 
-![image](https://github.com/emrzby/kodluyoruzilkrepo/blob/main/readme.JPG)
+![image](https://github.com/emrzby/proje/blob/main/readme.JPG)
 
 -----------------
 
@@ -11,7 +11,7 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo içerisinde b
 Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek
 
 ```
-git clone (https://github.com/emrzby/kodluyoruzilkrepo)
+git clone (https://github.com/emrzby/proje)
 
 ```
 
